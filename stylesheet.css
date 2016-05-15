@@ -1,76 +1,50 @@
 body {
-	font-family: "Times New Roman", Times, serif;
-}
-#container {
-	margin-top: 100px;
-	margin-left: 100px;
-	margin-right: 100px;
-	padding: 10px 120px 10px 120px;
-	background-color: #f0f0f0;
-	text-align: left;
+	background-color: ;
+	margin-top: 75px;
+	margin-left:50px;
+	margin-right:50px;
+	padding: 10px 50px 10px 50px;
 	border-style: inset;
-    border-width: 3px;    
+	border-width: 3px;
 }
-
-#content-professional {
-	font-size: 30px;
-	margin-top: 20px;
-	text-align: left;
+header {
+	
 }
-#content-profile {
-	font-size: 30px;
-	margin-top: 20px;
-	text-align: left;
-}
-h1 {
-	font-size: 40px;
-	margin-bottom: -5px;
-	text-align: center;
-}
-
 h2 {
-	font-size: 20px;
-	font-style: italic;
-	margin-bottom: 1px;
-	margin-top: 1px;
+	font-size: 24px;
 }
-
 h3 {
-	font-size: 26px;
+	font-size: 18px;
+}
+h4 {
+	font-size: 15px;
+}
+h5 {
+	font-size: 12px;
+}
+table {
+	border: 0;
+}
+table td {
+	border-right: 2px solid black;
+	margin-top: -10px;
 	margin-bottom: -10px;
 }
-
-h4 {
-	font-size: 20px;
-	font-style: italic;
-	text-align: center;
-
+table h3 {
+	text-decoration: underline;
 }
-li {
-	font-size: 18px;
-	text-align: left;
-}
-
-p {
-	font-size: 18px;
-	text-align: left;
-}
-
-.date {
-	float: right;
-	font-size: 16px;
-	font-style:italic;
-}
-
 hr { 
     display: block;
-    margin-top: 5px;
+    margin-top: -15px;
     margin-bottom: 5px;
     margin-left: auto;
     margin-right: auto;
     border-style: inset;
-    border-width: 1px;
+    border-width: 3px;
+    border-color: #74C9E0;
 }
-ol {
-	font-size: 20px;
+.school {
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: -15px;
 }
